@@ -1,0 +1,34 @@
+body {
+    background-image: linear-gradient(to bottom, rgb(253, 0, 0), rgb(0, 0, 0));
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+section {
+    background-color: white;
+    align-items: center;
+    width: 600px;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.36);
+    color: black;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
+select {
+    overflow: hidden;
+}
+
